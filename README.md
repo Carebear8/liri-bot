@@ -1,7 +1,7 @@
 ## LIRIBOT
 
 
-*To run this file follow the below commands:
+* To run this file follow the below commands:
 
 1. $ npm i
 
